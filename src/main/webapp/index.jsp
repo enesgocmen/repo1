@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>ENES ZEHRAYI SEVİYOR </h2>
+<h2>ENES ZEHRAYI SEVIYOR </h2>
 </body>
 </html>
